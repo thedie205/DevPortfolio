@@ -36,5 +36,6 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/ali-faeq-hamdan-abdullah-8368513b4",
     mailTo: "mailto:your@email.com",
     cvPdf: "/Ali-Alsbihawi-CV.pdf",
+    sohailYoutube: "https://www.youtube.com",
   },
 };
