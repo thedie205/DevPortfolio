@@ -56,7 +56,7 @@ export const projectsData: Project[] = [
       "JavaScript",
     ],
     links: {
-  preview: "https://icon-converter.vercel.app",
+  preview: "https://icon-converter-blue.vercel.app",
   github: "https://github.com/thedie205/icon-converter",
   githubApi: "",
 },
