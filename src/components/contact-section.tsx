@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion'
 import SectionHeading from './section-heading'
-import { Button } from '@/components/ui/Button'
+import  Button  from '@/components/ui/Button'
 import { siteConfig } from '@/lib/site-config'
 import Link from 'next/link'
 import { useForm } from 'react-hook-form'

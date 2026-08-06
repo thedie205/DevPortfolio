@@ -9,7 +9,7 @@ import {
   Linkedin,
 } from "lucide-react";
 
-import { Button } from "@/components/ui/Button";
+import  Button  from "@/components/ui/Button";
 import { useSectionInView } from "@/hooks/use-section-in-view";
 import { siteConfig } from "@/lib/site-config";
 

@@ -1,12 +1,14 @@
 'use client'
 
 import { useSectionInView } from '@/hooks/use-section-in-view'
+import type { Variants } from "framer-motion";
+
 import { projectsData } from '@/lib/data'
 import { motion } from 'framer-motion'
 import Link from 'next/link'
 import SectionHeading from './section-heading'
 
-const fadeInAnimationVariants = {
+const fadeInAnimationVariants: Variants = {
   initial: {
     opacity: 0,
     y: 100,

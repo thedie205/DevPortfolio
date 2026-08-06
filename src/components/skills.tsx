@@ -1,9 +1,11 @@
 'use client'
 
 import { motion } from 'framer-motion'
+import type { Variants } from "framer-motion";
+
 import { skillsData } from '@/lib/data'
 
-const fadeInAnimationVariants = {
+const fadeInAnimationVariants :  Variants = {
   initial: {
     opacity: 0,
     y: 80,
